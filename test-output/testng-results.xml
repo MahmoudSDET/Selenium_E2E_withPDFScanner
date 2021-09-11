@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-05T17:34:22 EET" name="Test-class Suite" finished-at="2020-09-05T17:34:22 EET" duration-ms="48">
+    <groups>
+    </groups>
+    <test started-at="2020-09-05T17:34:22 EET" name="Test-class test 1" finished-at="2020-09-05T17:34:22 EET" duration-ms="48">
+      <class name="parrallell.parrallell.ParallelSuiteTest">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:parrallell.parrallell.ParallelSuiteTest@57250572]" started-at="2020-09-05T17:34:22 EET" name="beforeTest" finished-at="2020-09-05T17:34:22 EET" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-method One]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:parrallell.parrallell.ParallelSuiteTest@57250572]" started-at="2020-09-05T17:34:22 EET" name="beforeClass" finished-at="2020-09-05T17:34:22 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="testMethodOne()[pri:0, instance:parrallell.parrallell.ParallelSuiteTest@57250572]" started-at="2020-09-05T17:34:22 EET" name="testMethodOne" finished-at="2020-09-05T17:34:22 EET" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodOne -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:parrallell.parrallell.ParallelSuiteTest@57250572]" started-at="2020-09-05T17:34:22 EET" name="afterClass" finished-at="2020-09-05T17:34:22 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:parrallell.parrallell.ParallelSuiteTest@57250572]" started-at="2020-09-05T17:34:22 EET" name="afterTest" finished-at="2020-09-05T17:34:22 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- parrallell.parrallell.ParallelSuiteTest -->
+    </test> <!-- Test-class test 1 -->
+    <test started-at="2020-09-05T17:34:22 EET" name="Test-class test 2" finished-at="2020-09-05T17:34:22 EET" duration-ms="48">
+      <class name="parrallell.parrallell.ParallelSuiteTest">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:parrallell.parrallell.ParallelSuiteTest@36d585c]" started-at="2020-09-05T17:34:22 EET" name="beforeTest" finished-at="2020-09-05T17:34:22 EET" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test-method One]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:parrallell.parrallell.ParallelSuiteTest@36d585c]" started-at="2020-09-05T17:34:22 EET" name="beforeClass" finished-at="2020-09-05T17:34:22 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="testMethodOne()[pri:0, instance:parrallell.parrallell.ParallelSuiteTest@36d585c]" started-at="2020-09-05T17:34:22 EET" name="testMethodOne" finished-at="2020-09-05T17:34:22 EET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodOne -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:parrallell.parrallell.ParallelSuiteTest@36d585c]" started-at="2020-09-05T17:34:22 EET" name="afterClass" finished-at="2020-09-05T17:34:22 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:parrallell.parrallell.ParallelSuiteTest@36d585c]" started-at="2020-09-05T17:34:22 EET" name="afterTest" finished-at="2020-09-05T17:34:22 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- parrallell.parrallell.ParallelSuiteTest -->
+    </test> <!-- Test-class test 2 -->
+  </suite> <!-- Test-class Suite -->
+</testng-results>
